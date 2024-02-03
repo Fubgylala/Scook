@@ -7,4 +7,6 @@ pkg install git
 git clone https://github.com/Fubgylala/Scook.git
 cd Scook—clone 
 ls
-python-clone.py
+python-clone
+Scook-clone.py
+creaded by Scook fubgylala
