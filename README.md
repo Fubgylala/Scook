@@ -4,4 +4,7 @@ pkg upgrade
 pkg install python
 pkg install python2
 pkg install git
-git clone
+git clone https://github.com/Fubgylala/Scook.git
+cd Scook—clone 
+ls
+python-clone.py
